@@ -2,6 +2,10 @@
 
 Freyja Feeney and Tess Ritter
 
+We created this project for our C++ class at the University of Vermont. We used C++ to play the game and collect data, 
+then using command line we were able to run our pyhon program and process the graph
+
+
 Necessary Downloads:
 1. matplotlib
 
@@ -23,16 +27,6 @@ Future Work:
 We can add graphics and animations for the creatures! We also plan to add hunger and happiness levels for each of the animals, as well as 
 the ability to name your pets (this will make the experience more immersive). 
 
-Grade Earned:
-Main Program complexity and usability: 40 points - the main program is robust and has many functions/is the center of the game
-Other programming language: 35/40 - our python program reads file and graphs the data, and our php adds functionality to our website but doesn't work entirely correctly
-Other non-programming: 20 - we used html and css in designing our beastiary website and it functions as planned
-Commandline Arguments: 2 - we ran the python program to create the graph and used the CLI to update website files 
-Style and documentation: -0 - we documented all our header files/methods
-video: -0 : we included a video 
-
-Based on this we believe we earned around a 97
-This is the link to the background image of the beastiary website: https://pin.it/4F7VTi5
 
 To Run:
 1. Your graph will be created, then check up on your process by continuing playing the game
